@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Luis Bryan Alonso</h1>
+<h2 align="center">Hi 👋, I'm Luis Bryan Alonso</h1>
 <h3 align="center">A passionate developer from Costa Rica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balonsodev&label=Profile%20views&color=0e75b6&style=flat" alt="balonsodev" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Backend Development**
+- 🌱 I’m currently learning 
+  **HTML, CSS, Javascript, Backend Development**
 
-- 💬 Ask me about **As always passionate person about technology and looking for new challenges and personal improvement. I decided to complement my former skills, formalizing and expanding my knowledge in computer science. Making my first steps as a Web Developer with more than 15 years of experience and wide knowledge as an Environment Health and Safety Supervisor, I am habituated to applying different skills like teamwork on different levels in the organization, solving problems continuously, creatively and efficiently, with inspection skills, risk analysis, and coaching, skills that I know I can use in this adventure. I am adaptable to changes, with a great ability for technology and always looking to grow as a person and a professional, now I am looking to develop myself more in the computer science field, which has always been an exciting branch of knowledge for me.**
+- 💬 Ask me about 
+  **As always passionate person about technology and looking for new challenges and personal improvement. I decided to complement my former skills, formalizing and expanding my knowledge in computer science. Making my first steps as a Web Developer with more than 15 years of experience and wide knowledge as an Environment Health and Safety Supervisor, I am habituated to applying different skills like teamwork on different levels in the organization, solving problems continuously, creatively and efficiently, with inspection skills, risk analysis, and coaching, skills that I know I can use in this adventure. I am adaptable to changes, with a great ability for technology and always looking to grow as a person and a professional, now I am looking to develop myself more in the computer science field, which has always been an exciting branch of knowledge for me.**
 
-- 📫 How to reach me **balonsodev@gmail.com**
+- 📫 How to reach me:  **balonsodev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luis-bryan-alonso/](https://www.linkedin.com/in/luis-bryan-alonso/)
+- 📄 Know about my experiences:
+   [https://www.linkedin.com/in/luis-bryan-alonso/](https://www.linkedin.com/in/luis-bryan-alonso/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
